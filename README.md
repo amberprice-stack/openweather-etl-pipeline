@@ -5,5 +5,7 @@ This project is a basic data pipeline that extracts weather data for San Fransis
 
 # Built With
 * Microsoft Visual Studio Code
+* Docker
+* Apache Airflow
 # Authors
 * Amber Price
