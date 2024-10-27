@@ -1,7 +1,7 @@
 # openweather-etl-pipeline
-This project is a basic data pipeline that extracts weather data for San Fransisco, CA using the API from OpenWeatherMap and transform the data into a CSV file.
+This is a basic data engineering project that extracts, transforms, and loads (ETL) weather data for San Fransico, CA from the OpenWeatherMap API into a SQLite database. The ETL process is orchestrated using Apache Airflow and the entire setup is containerized using Docker.
 
-![spartan](https://i.ibb.co/2584H09/spartans.png)
+![airflow](https://i.ibb.co/hXxkc1n/Screenshot-2024-10-27-at-3-27-58-PM.png)
 
 # Built With
 * Microsoft Visual Studio Code
